@@ -19,7 +19,7 @@
 		<!-- c3p0連接池 -->
 		<C3P0.version>0.9.5.5</C3P0.version>
 		<!-- mysql oracle-->
-		<mysql.version>8.0.21</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<oracle.version>10.2.0.4.0</oracle.version>
 		<!-- mybatis的版本号 -->
 		<mybatis.version>3.5.5</mybatis.version>
