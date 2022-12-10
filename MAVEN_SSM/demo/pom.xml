@@ -15,7 +15,7 @@
 		<!-- test版本号  -->
 		<junit.vesion>4.13</junit.vesion>
 		<!--spring  -->
-		<spring.version>5.2.8.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<!-- c3p0連接池 -->
 		<C3P0.version>0.9.5.5</C3P0.version>
 		<!-- mysql oracle-->
